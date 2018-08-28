@@ -1,4 +1,4 @@
-# A simple script for splitting of KML files
+# A simple script for splitting KML files
 
 If you have a large amount of Locations in a KML file you can split it up into different smaller ones with this tool by selecting a time span.
 
